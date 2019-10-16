@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP software security 5d framework
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
