@@ -3,18 +3,113 @@
 layout: col-sidebar
 title: OWASP software security 5d framework
 tags: example-tag
-level: 4
+level: 0
 type: documentation
 
+auto-migrated: 1
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+This is an example of a Project or Chapter Page.
+<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg
+"OWASP_Project_Header.jpg")
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+</div>
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+<table>
+<tbody>
+<tr class="odd">
+<td><h2 id="project_description">Project description</h2>
+<p><span style="color:#000000"> The new Minded Security Software Security 5D framework (now OWASP Software Security 5D framework) is derived from many years of experience performing software security assessment to many Companies and from the experience from the OWASP Community and in particular OWASP SAMM Community.</p>
+<p><span style="color:#000000"> The new Minded Security Software Security 5D framework (now OWASP Software Security 5D framework) is derived from many years of experience performing software security assessment to many Companies and from the experience from the OWASP Community and in particular OWASP SAMM Community.</p>
+<p>Minded Security donated it to OWASP in September 2018.</p>
+<p>Minded Security donated it to OWASP in September 2018.</p>
+<p>Traditional Secure SDLC frameworks lack of: - level of awareness for all the people involved in the process - description of the application security roles involved - set of security standards - security testing tools adopted</p>
+<p>Traditional Secure SDLC frameworks lack of: - level of awareness for all the people involved in the process - description of the application security roles involved - set of security standards - security testing tools adopted</p>
+<p>OWASP SwSec 5D represents a more practical framework that focus on 5 dimensions to evaluate the maturity of a SDLC that are the following:<br />
+<p>OWASP SwSec 5D represents a more practical framework that focus on 5 dimensions to evaluate the maturity of a SDLC that are the following:<br />
+- SwSec PROCESSES<br />
+- SwSec PROCESSES<br />
+- SwSec TESTING<br />
+- SwSec TESTING<br />
+- SwSec TEAM<br />
+- SwSec TEAM<br />
+- SwSec AWARENESS<br />
+- SwSec AWARENESS<br />
+- SwSec STANDARDS<br />
+- SwSec STANDARDS<br />
+<br />
+<br />
+<a href="https://www.owasp.org/index.php?title=OWASP_Software_Security_5D_Framework_Table_of_Contents">Wiki Home Page</a></p>
+<a href="https://www.owasp.org/index.php?title=OWASP_Software_Security_5D_Framework_Table_of_Contents">Wiki Home Page</a></p>
+<p><br />
+<p><br />
+</span></p>
+</span></p>
+<p><span style="color:#000000"> Project goal is to review the 5D framework and create an open source framework adopted by the OWASP Community. </span></p>
+<p><span style="color:#000000"> Project goal is to review the 5D framework and create an open source framework adopted by the OWASP Community. </span></p>
+<h2 id="licensing">Licensing</h2>
+<h2 id="licensing">Licensing</h2>
+<p><span style="color:#000000"> This project is under the AGPL 3.0 license. </span></p>
+<p><span style="color:#000000"> This project is under the AGPL 3.0 license. </span></p>
+<p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by {the Project Leader(s) or OWASP} {Year(s)}.</p>
+<p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by {the Project Leader(s) or OWASP} {Year(s)}.</p>
+<h2 id="roadmap">Roadmap</h2>
+<h2 id="roadmap">Roadmap</h2>
+<p><span style="color:#000000"> Starting at October 2018. By the end of the year: <strong></p>
+<p><span style="color:#000000"> Starting at October 2018. By the end of the year: <strong></p>
+<ul>
+<ul>
+<li>Complete the first draft of the Documentation Project</li>
+<li>Complete the first draft of the Documentation Project</li>
+<li>Get other people to review the Documentation Project and provide feedback</li>
+<li>Get other people to review the Documentation Project and provide feedback</li>
+<li>Incorporate feedback</li>
+<li>Incorporate feedback</li>
+<li>Finalize the Documentation Project and have it reviewed to be promoted from an Incubator Project to a Lab Project</li>
+<li>Finalize the Documentation Project and have it reviewed to be promoted from an Incubator Project to a Lab Project</li>
+</ul>
+</ul>
+<p></strong></p>
+<p></strong></p>
+<h2 id="getting_involved">Getting Involved</h2>
+<h2 id="getting_involved">Getting Involved</h2>
+<p><span style="color:#000000"> Involvement in the development and promotion of <strong>SwSec 5D project</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: <a href="mailto:matteo.meucci@owasp.org">Matteo Meucci</a></p></td>
+<p><span style="color:#000000"> Involvement in the development and promotion of <strong>SwSec 5D project</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: <a href="mailto:matteo.meucci@owasp.org">Matteo Meucci</a></p></td>
+<p><a href="https://www.owasp.org/images/9/92/OWASP_SwSec5D_Presentation_-_Oct18.pdf">Presentation</a></p>
+<p><a href="https://github.com/OWASP/Software-Security-5D-Framework">GitHub</a></p>
+<p><a href="https://www.owasp.org/index.php?title=OWASP_Software_Security_5D_Framework_Table_of_Contents">Wiki Home Page</a></p>
+<h2 id="project_leader">Project Leader</h2>
+<p><a href="User:Mmeucci" title="wikilink">Matteo Meucci</a></p>
+<h2 id="related_projects">Related Projects</h2>
+<p><a href="OWASP_SAMM_Project" title="wikilink">OWASP SAMM</a></p>
+<h2 id="classifications">Classifications</h2>
+<table>
+<tbody>
+<tr class="odd">
+<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
+</figure></td>
+</tr>
+<tr class="even">
+<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
+</figure></td>
+</tr>
+<tr class="odd">
+<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
+</figure></td>
+</tr>
+<tr class="even">
+<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+__NOTOC__ <headertabs />
 
+[Category:OWASP Project](Category:OWASP_Project "wikilink")
+[Category:OWASP_Document](Category:OWASP_Document "wikilink")
