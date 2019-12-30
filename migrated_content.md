@@ -47,20 +47,20 @@ auto-migrated: 1
 <h2 id="getting_involved">Getting Involved</h2>
 <p><span style="color:#000000"> Involvement in the development and promotion of <strong>SwSec 5D project</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: <a href="mailto:matteo.meucci@owasp.org">Matteo Meucci</a></p></td>
 <td><h2 id="project_resources">Project Resources</h2>
-<p><a href="https://www.owasp.org/images/9/92/OWASP_SwSec5D_Presentation_-_Oct18.pdf">Presentation</a></p>
-<p><a href="https://www.owasp.org/images/9/92/OWASP_SwSec5D_Presentation_-_Oct18.pdf">Presentation</a></p>
+<p><a href="/www-pdf-archive/OWASP_SwSec5D_Presentation_-_Oct18.pdf">Presentation</a></p>
+<p><a href="/www-pdf-archive/OWASP_SwSec5D_Presentation_-_Oct18.pdf">Presentation</a></p>
 <p><a href="https://github.com/OWASP/Software-Security-5D-Framework">GitHub</a></p>
 <p><a href="https://github.com/OWASP/Software-Security-5D-Framework">GitHub</a></p>
 <p><a href="https://www.owasp.org/index.php?title=OWASP_Software_Security_5D_Framework_Table_of_Contents">Wiki Home Page</a></p>
 <p><a href="https://www.owasp.org/index.php?title=OWASP_Software_Security_5D_Framework_Table_of_Contents">Wiki Home Page</a></p>
 <h2 id="project_leader">Project Leader</h2>
 <h2 id="project_leader">Project Leader</h2>
-<p><a href="User:Mmeucci" title="wikilink">Matteo Meucci</a></p>
-<p><a href="User:Mmeucci" title="wikilink">Matteo Meucci</a></p>
+<p><a href="User:Mmeucci" title=>Matteo Meucci</a></p>
+<p><a href="User:Mmeucci" title=>Matteo Meucci</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <h2 id="related_projects">Related Projects</h2>
-<p><a href="OWASP_SAMM_Project" title="wikilink">OWASP SAMM</a></p></td>
-<p><a href="OWASP_SAMM_Project" title="wikilink">OWASP SAMM</a></p></td>
+<p><a href="OWASP_SAMM_Project" title=>OWASP SAMM</a></p></td>
+<p><a href="OWASP_SAMM_Project" title=>OWASP SAMM</a></p></td>
 </tr>
 </tr>
 </tbody>
@@ -73,7 +73,7 @@ __NOTOC__ <headertabs />
 __NOTOC__ <headertabs />
 
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Document](Category:OWASP_Document )
+[Category:OWASP_Document](Category:OWASP_Document )
