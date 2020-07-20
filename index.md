@@ -49,13 +49,4 @@ Finalize the Documentation Project and have it reviewed to be promoted from an I
 ## Getting Involved
 Involvement in the development and promotion of SwSec 5D project is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: Matteo Meucci
 
-```
-{info.md}
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
