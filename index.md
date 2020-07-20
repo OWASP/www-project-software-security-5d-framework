@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Software Security 5D Framework
-tags: example-tag
 level: 0
 type: documentation
 
