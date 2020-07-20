@@ -33,20 +33,37 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Project description
+The new Minded Security Software Security 5D framework (now OWASP Software Security 5D framework) is derived from many years of experience performing software security assessment to many Companies and from the experience from the OWASP Community and in particular OWASP SAMM Community.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+Minded Security donated it to OWASP in September 2018.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Traditional Secure SDLC frameworks lack of: - level of awareness for all the people involved in the process - description of the application security roles involved - set of security standards - security testing tools adopted
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+OWASP SwSec 5D represents a more practical framework that focus on 5 dimensions to evaluate the maturity of a SDLC that are the following:
+- SwSec PROCESSES
+- SwSec TESTING
+- SwSec TEAM
+- SwSec AWARENESS
+- SwSec STANDARDS
+
+Project goal is to review the 5D framework and create an open source framework adopted by the OWASP Community.
+
+
+## Licensing
+This project is under the AGPL 3.0 license.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the link GNU Affero General Public License 3.0 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by {the Project Leader(s) or OWASP} {Year(s)}.
+
+## Roadmap
+Complete the first draft of the Documentation Project
+Get other people to review the Documentation Project and provide feedback
+Incorporate feedback
+Finalize the Documentation Project and have it reviewed to be promoted from an Incubator Project to a Lab Project
+
+## Getting Involved
+Involvement in the development and promotion of SwSec 5D project is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: Matteo Meucci
 
 ```
 {info.md}
