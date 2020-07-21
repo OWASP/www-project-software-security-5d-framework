@@ -1,4 +1,20 @@
+---
 
+layout: col-sidebar
+title: OWASP Software Security 5D Framework
+level: 0
+type: documentation
+
+auto-migrated: 1
+auto-migrated: 1
+
+auto-migrated: 1
+
+auto-migrated: 1
+
+auto-migrated: 1
+
+---
 ## Project description
 The new Minded Security Software Security 5D framework (now OWASP Software Security 5D framework) is derived from many years of experience performing software security assessment to many Companies and from the experience from the OWASP Community and in particular OWASP SAMM Community.
 
