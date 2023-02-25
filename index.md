@@ -25,7 +25,7 @@ Project goal is to review the 5D framework and create an open source framework a
 
 ## Start with the model
 
-### 2.1 [The OWASP Testing Project](2-Introduction/README.md#The-OWASP-Testing-Project)
+[The OWASP SwSec 5D Project](README.md#The-OWASP-SwSec5D-Project)
 
 
 
