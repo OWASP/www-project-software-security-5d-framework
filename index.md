@@ -4,14 +4,6 @@ layout: col-sidebar
 title: OWASP Software Security 5D Framework
 level: 0
 type: documentation
-
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
-
-auto-migrated: 1
-
 auto-migrated: 1
 
 ---
@@ -31,6 +23,11 @@ OWASP SwSec 5D represents a more practical framework that focus on 5 dimensions 
 
 Project goal is to review the 5D framework and create an open source framework adopted by the OWASP Community.
 
+## Start with the model
+
+### 2.1 [The OWASP Testing Project](2-Introduction/README.md#The-OWASP-Testing-Project)
+
+
 
 ## Licensing
 This project is under the AGPL 3.0 license.
@@ -38,7 +35,6 @@ This project is under the AGPL 3.0 license.
 This program is free software: you can redistribute it and/or modify it under the terms of the link GNU Affero General Public License 3.0 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by {the Project Leader(s) or OWASP} {Year(s)}.
 
 ## Roadmap
-Complete the first draft of the Documentation Project
 Get other people to review the Documentation Project and provide feedback
 Incorporate feedback
 Finalize the Documentation Project and have it reviewed to be promoted from an Incubator Project to a Lab Project
