@@ -10,7 +10,7 @@ tags: SwSec 5D
 
 1 [Introduction](1.Introduction.md)
 
-1.1 [Why another maturity model?] (1.1Why-another-maturity-model.md)
+1.1 [Why another maturity model?] (Why-another-maturity-model.md)
 
 1.2 [SDLC and SwSec 5D Framework] (1.2SDLC-and-SwSec-5D-Framework.md)
 
