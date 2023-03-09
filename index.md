@@ -2,9 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Software Security 5D Framework
-level: 0
+level: 2
 type: documentation
-auto-migrated: 1
 
 ---
 ## Project description
