@@ -27,3 +27,11 @@ Project goal is to review the 5D framework and create an open source framework a
 
 ### Start reading [v1](https://github.com/OWASP/www-project-software-security-5d-framework/blob/master/5d%20v1/content/ToC.md)
 
+## Project Leader
+Matteo Meucci
+
+## Licensing
+The OWASP SwSec 5D Framework Project documents are free to use!
+
+The OWASP SwSec 5D Framework Project is licensed under the Creative Commons Attribution-ShareAlike 3.0 license, so you can copy, distribute, and transmit the work. You can also adapt it, and use it commercially, as long as you attribute the work. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+
