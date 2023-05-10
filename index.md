@@ -27,13 +27,13 @@ Project goal is to review the 5D framework and create an open source framework a
 ## Start with the model
 
 [The OWASP SwSec 5D Project](https://github.com/OWASP/www-project-software-security-5d-framework/blob/master/README.md)
-
+[The OWASP SwSec 5D Project v1 (PDF)](https://github.com/OWASP/www-project-software-security-5d-framework/blob/4c4ea93b21ebec6ace6e26be0f66b5dda9c327cf/assets/images/OWASP%20SwSec%205D%20Framework%20v1.pdf)
 
 
 ## Licensing
 This project is under the AGPL 3.0 license.
 
-This program is free software: you can redistribute it and/or modify it under the terms of the link GNU Affero General Public License 3.0 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by {the Project Leader(s) or OWASP} {Year(s)}.
+This program is free software: you can redistribute it and/or modify it under the terms of the link GNU Affero General Public License 3.0 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by the Project Leader(s) or OWASP.
 
 ## Roadmap
 Get other people to review the Documentation Project and provide feedback
@@ -41,6 +41,6 @@ Incorporate feedback
 Finalize the Documentation Project and have it reviewed to be promoted from an Incubator Project to a Lab Project
 
 ## Getting Involved
-Involvement in the development and promotion of SwSec 5D project is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: Matteo Meucci
+Involvement in the development and promotion of SwSec 5D project is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: Matteo.Meucci at owasp.org
 
 
