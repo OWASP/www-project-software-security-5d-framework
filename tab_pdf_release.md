@@ -12,4 +12,4 @@ tags: 5D
 OWASP Software Security 5D Framework was just publishe in PDF.
 Please download and read it here.
 
-[![OWASP Software Security 5D Framework](assets/images/OWASP5D.png)](https://pdf)
+[![OWASP Software Security 5D Framework](assets/images/OWASP5D.png)](assets/images/OWASP SwSec 5D Framework v1.pdf)
