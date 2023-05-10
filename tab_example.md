@@ -1,5 +1,5 @@
 ---
-title: PDF Release
+title: PDF_Release
 layout:  col-sidebar
 tab: true
 order: 2
