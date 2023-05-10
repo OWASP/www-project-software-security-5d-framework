@@ -1,11 +1,13 @@
 ---
-title: Example
-layout:  null
+title: PDF Release
+layout:  col-sidebar
 tab: true
-order: 1
-tags: example-tag
+order: 2
+tags: 5D
 ---
 
-## Example
+## Version 1 just published!
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+[![OWASP Software Security 5D Framework](assets/images/OWASPSwSec5dv1.png)](https://pdf)
+
+PDF here
