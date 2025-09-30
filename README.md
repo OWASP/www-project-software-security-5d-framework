@@ -5,9 +5,7 @@ OWASP Foundation Web Respository
 
 ### Project description
 
-The new IMQ Minded Security Software Security 5D framework (now OWASP Software Security 5D framework) is derived from many years of experience performing software security assessment to many Companies and from the experience from the OWASP Community and in particular OWASP SAMM Community.
-
-IMQ Minded Security donated it to OWASP in September 2018.
+The Software Security 5D framework is derived from many years of experience performing software security assessment to many Companies and from the experience from the OWASP Community and in particular OWASP SAMM Community.
 
 Traditional Secure SDLC frameworks lack of: <br>
 - level of awareness for all the people involved in the process <br>
