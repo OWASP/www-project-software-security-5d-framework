@@ -1,0 +1,19 @@
+audience:
+  - builder
+leaders:
+  - name: Matteo Meucci
+    email: matteo.meucci@owasp.org
+    github: MatOwasp
+level: 2
+name: OWASP Software Security 5D Framework
+pitch: Description for OWASP Software Security 5D Framework
+repositories:
+  - name: www-project-software-security-5d-framework
+    url: https://github.com/OWASP/www-project-software-security-5d-framework
+    description: OWASP Software Security 5D Framework
+tags:
+  - 5D
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-software-security-5d-framework
