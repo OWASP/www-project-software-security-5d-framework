@@ -26,7 +26,7 @@ Project goal is to review the 5D framework and create an open source framework a
 
 [The OWASP SwSec 5D Project](https://github.com/OWASP/www-project-software-security-5d-framework/blob/master/README.md)
 
-[The OWASP SwSec 5D v1 (PDF)](https://github.com/OWASP/www-project-software-security-5d-framework/blob/4c4ea93b21ebec6ace6e26be0f66b5dda9c327cf/assets/images/OWASP%20SwSec%205D%20Framework%20v1.pdf)
+[The OWASP SwSec 5D v1.1 (PDF)](https://github.com/OWASP/www-project-software-security-5d-framework/blob/ff02158028be0af794d58c04f2eec9a84d7ede1d/PDF/OWASP-SwSec-5D-%20Framework-v1.1.pdf)
 
 
 ## Licensing
