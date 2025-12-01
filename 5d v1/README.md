@@ -1,7 +1,7 @@
 
 # OWASP SwSec 5D Framework - Table of Contents
 
-## 1. [Introduction](https://github.com/OWASP/www-project-software-security-5d-framework/blob/d96f35803dff083945668f758da4da8e11c28b3e/5d%20v1/content/1.Introduction.md)
+## 1. [Introduction](/content/1.Introduction.md)
 
 -1.1 [Why another maturity model?](https://github.com/OWASP/www-project-software-security-5d-framework/blob/aa7121e95c4f1d24a460c8ad4a170a80227aa15a/5d%20v1/content/1.1Why-another-maturity-model.md)
 
