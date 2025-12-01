@@ -25,4 +25,4 @@
 
 ## 5. [Results and Roadmap](https://github.com/OWASP/www-project-software-security-5d-framework/blob/14aa7004193c97306295de0d677e417a1877f8a9/5d%20v1/content/5.How-to-create-your-roadmap.md)
 
-## 6. [References](https://github.com/OWASP/www-project-software-security-5d-framework/blob/bf93762f6cad88be2f474455b5cf531dac80018a/5d%20v1/content/6.%20References)
+## 6. [References](https://github.com/OWASP/www-project-software-security-5d-framework/blob/bf93762f6cad88be2f474455b5cf531dac80018a/5d%20v1/content/6.%20References.md)
