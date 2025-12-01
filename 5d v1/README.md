@@ -1,11 +1,11 @@
 
 # OWASP SwSec 5D Framework - Table of Contents
 
-## 1. [Introduction](/content/1.Introduction.md)
+## 1. [Introduction](/5d%20v1//content/1.Introduction.md)
 
 -1.1 [Why another maturity model?](https://github.com/OWASP/www-project-software-security-5d-framework/blob/aa7121e95c4f1d24a460c8ad4a170a80227aa15a/5d%20v1/content/1.1Why-another-maturity-model.md)
 
--1.2 [SDLC and SwSec 5D Framework](https://github.com/OWASP/www-project-software-security-5d-framework/blob/ebec63572139fbb8a10dbc2167b2ba7769115479/5d%20v1/content/1.2SDLC-and-SwSec-5D-Framework.md)
+-1.2 [SDLC and SwSec 5D Framework](/5d%20v1/content/1.2SDLC-and-SwSec-5D-Framework.md)
 
 ## 2. [The SwSec 5D Model](https://github.com/OWASP/www-project-software-security-5d-framework/blob/ebec63572139fbb8a10dbc2167b2ba7769115479/5d%20v1/content/2.The-SwSec5D-Model.md)
 
