@@ -23,7 +23,7 @@ OWASP SwSec 5D represents a more practical framework that focus on 5 dimensions 
 
 Project goal is to review the 5D framework and create an open source framework adopted by the OWASP Community.
 
-### Start reading [v1](https://github.com/OWASP/www-project-software-security-5d-framework/blob/master/5d v1)
+### Start reading [v1](https://github.com/OWASP/www-project-software-security-5d-framework/blob/master/5d v1/README.md)
 
 ## Project Leader
 Matteo Meucci
